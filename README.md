@@ -1,24 +1,9 @@
 ### Hello there, I'm [Carlos Eduardo Santiago (Duardo)!](https://www.linkedin.com/in/carlos-eduardo-santiago-ab499764/) <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="20px">
 
-##
-<p align="center">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=dduardo&layout=compact&theme=github_dark"
-    />
-  </a>
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=dduardo&show_icons=true&theme=github_dark"
-    />
-  </a>
-</p>
-
 ## 👾 About me 
 - 📱💻 IOS Developer.
 - 👨‍💻 I'm currently working at [**CI&T**](https://ciandt.com/).
-- 🌱 I’m currently learning and studying: **AWS, Clean Arch, kotlin, mongoDB**.
+- 🌱 I’m currently learning and studying: **AWS, Terraform, Anthropic Claude SDK**.
 
 ## 🔧 Technologies & Tools
 
