@@ -13,6 +13,10 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
+### AI & Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logoaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&m&logoColor=white)
+![Claude](https://img.shields.io/badge/Anthropic_Claude-D97757?styleadge&logo=anthropic&logoColor=white)
 
 ## Visitors
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=dduardo-na.dduardo-na)
