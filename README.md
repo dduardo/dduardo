@@ -1,7 +1,7 @@
 ### Hello there, I'm [Carlos Eduardo Santiago (Duardo)!](https://www.linkedin.com/in/carlos-eduardo-santiago-ab499764/) <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="20px">
 
 ## 👾 About me 
-- 📱💻 IOS Developer.
+- 🤖 AI Engineer / 📱💻 IOS Developer.
 - 👨‍💻 I'm currently working at [**CI&T**](https://ciandt.com/).
 - 🌱 I’m currently learning and studying: **AWS, Terraform, Anthropic Claude SDK**.
 
